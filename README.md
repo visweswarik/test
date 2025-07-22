@@ -53,7 +53,7 @@
 | `usermod`                                   | Modifies a user account                                          |
 | `wget`                                      | Downloads files from the web via HTTP, HTTPS, or FTP             |
 
-#Vim editor commands
+##Vim editor commands
 | Command | Description                               |
 | ------- | ----------------------------------------- |
 | `i`     | Enters **insert mode** (to start typing). |
@@ -62,7 +62,7 @@
 | `:q`    | Quits the editor.                         |
 | `:wq`   | Writes and then quits.                    |
 | `:q!`   | Forces quit without saving changes.       |
-#Navigating a Text File (e.g., with less or man)
+##Navigating a Text File (e.g., with less or man)
 | Command          | Description                                      |
 | ---------------- | ------------------------------------------------ |
 | `q`              | Quit the viewer (e.g., `less`, `man`)            |
